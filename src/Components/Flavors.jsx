@@ -22,7 +22,7 @@ const Flavors = () => {
           data-aos="fade-right"
           className="flex flex-col md:flex-row md:justify-between md:items-center gap-6 md:gap-0 mb-10"
         >
-          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[1150] text-white relative p-10">
+          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-fit text-white relative p-10">
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
 Golden brown and chewy, filled with gooey chocolate chips that melt in your mouth — a classic treat everyone loves.            </p>
             <img
@@ -35,7 +35,7 @@ Golden brown and chewy, filled with gooey chocolate chips that melt in your mout
 
           <div
             data-aos="fade-left"
-            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[150] text-white relative p-10"
+            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-fit text-white relative p-10"
           >
             <img
               data-aos="fade-left"
@@ -54,7 +54,7 @@ Golden brown and chewy, filled with gooey chocolate chips that melt in your mout
           data-aos="fade-right"
           className="flex flex-col md:flex-row md:justify-between md:items-center gap-6 md:gap-0 mb-10"
         >
-          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[150] text-white relative p-10">
+          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-fit text-white relative p-10">
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
               A rich, velvety red cookie topped with smooth cream cheese frosting and a sprinkle of red velvet crumbs — a perfect mix of color and flavor.
             </p>
@@ -68,7 +68,7 @@ Golden brown and chewy, filled with gooey chocolate chips that melt in your mout
 
           <div
             data-aos="fade-left"
-            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[150] text-white relative p-10"
+            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-fit text-white relative p-10"
           >
             <img
               data-aos="fade-left"
@@ -87,7 +87,7 @@ Golden brown and chewy, filled with gooey chocolate chips that melt in your mout
           data-aos="fade-right"
           className="flex flex-col md:flex-row md:justify-between md:items-center gap-6 md:gap-0"
         >
-           <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[150] text-white relative p-10">
+           <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-fit text-white relative p-10">
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
               Caramelized, buttery, and lightly spiced, this Lotus-flavored cookie brings the signature Biscoff crunch and aroma everyone loves.
             </p>
@@ -101,7 +101,7 @@ Golden brown and chewy, filled with gooey chocolate chips that melt in your mout
 
           <div
             data-aos="fade-left"
-            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[150] text-white relative p-10"
+            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-fit text-white relative p-10"
           >
             <img
               data-aos="fade-left"
