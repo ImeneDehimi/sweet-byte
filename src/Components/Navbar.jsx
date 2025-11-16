@@ -11,7 +11,7 @@ const Navbar = () => {
         <h1 className="absolute left-6 md:left-20 text-2xl font-bold text-[#755541]">
           Dear Ones 🍪
         </h1>
-
+        
         {/* Desktop Menu (centered) */}
         <ul className="hidden md:flex gap-10 text-[#755541] bg-[#9164493c] py-3 px-10 rounded-3xl ">
           <a href="#home">

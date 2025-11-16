@@ -24,11 +24,11 @@ const Flavors = () => {
         >
           <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[50] text-white relative p-10">
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
-              Golden brown and chewy, loaded with gooey chocolate chips that melt in your mouth — a timeless favorite.
+              Golden brown and chewy, loaded with gooey chocolate chips that melt in your mouth — a timeless favorite .
             </p>
             <img
               data-aos="fade-right"
-              className="w-[120px] sm:w-[150px] md:w-[150px] h-[120px] sm:h-[150px] md:h-[150px] rounded-full object-cover shadow-md md:absolute md:right-[-70px] mt-5 md:mt-0 mx-auto"
+              className="w-[120px] sm:w-36 md:w-36 h-[120px] sm:h-36 md:h-36 rounded-full object-cover shadow-md md:absolute md:right-[-70px] mt-5 md:mt-0 mx-auto"
               src={basic}
               alt=""
             />
@@ -40,7 +40,7 @@ const Flavors = () => {
           >
             <img
               data-aos="fade-left"
-              className="w-[120px] sm:w-[150px] md:w-[150px] h-[120px] sm:h-[150px] md:h-[150px] rounded-full object-cover shadow-md md:absolute md:left-[-70px] mt-5 md:mt-0 mx-auto"
+              className="w-[120px] sm:w-36 md:w-36 h-[120px] sm:h-36 md:h-36 rounded-full object-cover shadow-md md:absolute md:left-[-70px] mt-5 md:mt-0 mx-auto"
               src={chocolate}
               alt=""
             />
@@ -61,7 +61,7 @@ const Flavors = () => {
             </p>
             <img
               data-aos="fade-right"
-              className="w-[120px] sm:w-[150px] md:w-[150px] h-[120px] sm:h-[150px] md:h-[150px] rounded-full object-cover shadow-md md:absolute md:right-[-70px] mt-5 md:mt-0 mx-auto"
+              className="w-[120px] sm:w-36 md:w-36 h-[120px] sm:h-36 md:h-36 rounded-full object-cover shadow-md md:absolute md:right-[-70px] mt-5 md:mt-0 mx-auto"
               src={redVelvet}
               alt=""
             />
@@ -73,7 +73,7 @@ const Flavors = () => {
           >
             <img
               data-aos="fade-left"
-              className="w-[120px] sm:w-[150px] md:w-[150px] h-[120px] sm:h-[150px] md:h-[150px] rounded-full object-cover shadow-md md:absolute md:left-[-70px] mt-5 md:mt-0 mx-auto"
+              className="w-[120px] sm:w-36 md:w-36 h-[120px] sm:h-36 md:h-36 rounded-full object-cover shadow-md md:absolute md:left-[-70px] mt-5 md:mt-0 mx-auto"
               src={cheesCake}
               alt=""
             />
@@ -94,7 +94,7 @@ const Flavors = () => {
             </p>
             <img
               data-aos="fade-right"
-              className="w-[120px] sm:w-[150px] md:w-[150px] h-[120px] sm:h-[150px] md:h-[150px] rounded-full object-cover shadow-md md:absolute md:right-[-70px] mt-5 md:mt-0 mx-auto"
+              className="w-[120px] sm:w-36 md:w-36 h-[120px] sm:h-36 md:h-36 rounded-full object-cover shadow-md md:absolute md:right-[-70px] mt-5 md:mt-0 mx-auto"
               src={lotus}
               alt=""
             />
@@ -106,7 +106,7 @@ const Flavors = () => {
           >
             <img
               data-aos="fade-left"
-              className="w-[120px] sm:w-[150px] md:w-[150px] h-[120px] sm:h-[150px] md:h-[150px] rounded-full object-cover shadow-md md:absolute md:left-[-70px] mt-5 md:mt-0 mx-auto"
+              className="w-[120px] sm:w-36 md:w-36 h-[120px] sm:h-36 md:h-36 rounded-full object-cover shadow-md md:absolute md:left-[-70px] mt-5 md:mt-0 mx-auto"
               src={marshmellow}
               alt=""
             />
