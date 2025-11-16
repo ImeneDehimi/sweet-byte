@@ -13,7 +13,7 @@ const Flavors = () => {
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mr-4 text-[#755541]">
           OUR FLAVORS
         </h1>
-        <span className="hidden md:block w-16 h-1 bg-amber-950"></span>
+        <span className="hidden md:block w-16 h-1 bg-amber-9150"></span>
       </div>
 
       <div className="space-y-16">
@@ -22,10 +22,9 @@ const Flavors = () => {
           data-aos="fade-right"
           className="flex flex-col md:flex-row md:justify-between md:items-center gap-6 md:gap-0 mb-10"
         >
-          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[50] text-white relative p-10">
+          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[1150] text-white relative p-10">
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
-              Golden brown and chewy, loaded with gooey chocolate chips that melt in your mouth — a timeless favorite .
-            </p>
+Golden brown and chewy, filled with gooey chocolate chips that melt in your mouth — a classic treat everyone loves.            </p>
             <img
               data-aos="fade-right"
               className="w-[120px] sm:w-36 md:w-36 h-[120px] sm:h-36 md:h-36 rounded-full object-cover shadow-md md:absolute md:right-[-70px] mt-5 md:mt-0 mx-auto"
@@ -36,7 +35,7 @@ const Flavors = () => {
 
           <div
             data-aos="fade-left"
-            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[50] text-white relative p-10"
+            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[150] text-white relative p-10"
           >
             <img
               data-aos="fade-left"
@@ -55,7 +54,7 @@ const Flavors = () => {
           data-aos="fade-right"
           className="flex flex-col md:flex-row md:justify-between md:items-center gap-6 md:gap-0 mb-10"
         >
-          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[50] text-white relative p-10">
+          <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[150] text-white relative p-10">
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
               A rich, velvety red cookie topped with smooth cream cheese frosting and a sprinkle of red velvet crumbs — a perfect mix of color and flavor.
             </p>
@@ -69,7 +68,7 @@ const Flavors = () => {
 
           <div
             data-aos="fade-left"
-            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[50] text-white relative p-10"
+            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[150] text-white relative p-10"
           >
             <img
               data-aos="fade-left"
@@ -88,7 +87,7 @@ const Flavors = () => {
           data-aos="fade-right"
           className="flex flex-col md:flex-row md:justify-between md:items-center gap-6 md:gap-0"
         >
-           <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[50] text-white relative p-10">
+           <div className="flex items-center bg-[#755541] rounded-r-lg w-full md:w-[35%] md:h-[150] text-white relative p-10">
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
               Caramelized, buttery, and lightly spiced, this Lotus-flavored cookie brings the signature Biscoff crunch and aroma everyone loves.
             </p>
@@ -102,7 +101,7 @@ const Flavors = () => {
 
           <div
             data-aos="fade-left"
-            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[50] text-white relative p-10"
+            className="flex items-center justify-center bg-[#755541] rounded-l-lg w-full md:w-[35%] md:h-[150] text-white relative p-10"
           >
             <img
               data-aos="fade-left"
@@ -111,8 +110,7 @@ const Flavors = () => {
               alt=""
             />
             <p className="w-full md:w-3/4 mx-auto md:mx-5 text-center md:text-left text-sm sm:text-base">
-              Soft and chewy with pockets of gooey marshmallow and a hint of vanilla — a melt-in-your-mouth experience.
-            </p>
+Soft and chewy with pockets of gooey marshmallow and a warm hint of vanilla — a melt-in-your-mouth experience that feels comforting .            </p>
           </div>
         </div>
       </div>
